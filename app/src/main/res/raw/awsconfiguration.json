@@ -6,10 +6,11 @@
     },
     "AppSync": {
         "Default": {
-        "ApiUrl": "https://abcdefghijklmnop.appsync-api.us-west-2.amazonaws.com/graphql",
-        "Region": "us-west-2",
-        "AuthMode": "API_KEY",
-        "ApiKey": "xxx-xxxxxxxxxxxxxxxx"
+            "ApiUrl": "https://jrotd2d3ujha5bclezh3lcykde.appsync-api.us-east-1.amazonaws.com/graphql",
+            "Region": "us-east-1",
+            "AuthMode": "API_KEY",
+            "ApiKey": "da2-k3fc7imwbnckrdhqy3ql2kvdwm",
+            "ClientDatabasePrefix": "RJ Event App_API_KEY"
         }
     }
 }
